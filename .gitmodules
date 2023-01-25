@@ -1,0 +1,6 @@
+[submodule "matious_internship_test_front"]
+	path = matious_internship_test_front
+	url = https://github.com/dvnkboi/matious_internship_test_front
+[submodule "matious_internship_test"]
+	path = matious_internship_test
+	url = https://github.com/dvnkboi/matious_internship_test
